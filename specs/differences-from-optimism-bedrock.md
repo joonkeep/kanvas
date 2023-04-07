@@ -25,7 +25,7 @@
 
 ### Overview
 
-Kanvas is composed of 3 nodes which are `proposer`, `validator` and `vanilla` node. Followings are components that
+Kanvas is composed of 3 nodes: `proposer`, `validator` and `vanilla`. The following are components that
 are used to run each node.
 
 | Node        | Components                                                                          |
